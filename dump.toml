@@ -2025,6 +2025,16 @@ functions = [
 ]
 
 [[section]]
+name = ".zerojump"
+rom = 0x00098510
+vram = 0x801D0000
+size = 0x130
+
+functions = [
+    { name = "exec_zerojump_func", vram = 0x801D0000, size = 0x9C },
+]
+
+[[section]]
 name = ".ovl_actor_main"
 rom = 0x01000010
 vram = 0x40000000
