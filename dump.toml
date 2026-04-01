@@ -751,7 +751,7 @@ functions = [
     { name = "func_800397E0", vram = 0x800397E0, size = 0x21C },
     { name = "func_80060600", vram = 0x80060600, size = 0x23C },
     { name = "func_80018280", vram = 0x80018280, size = 0x8 },
-    { name = "GetCurrentProcess", vram = 0x80007774, size = 0x10 },
+    { name = "GetCurrentProcess_Game", vram = 0x80007774, size = 0x10 },
     { name = "func_8003D400", vram = 0x8003D400, size = 0x30 },
     { name = "func_80004AE0", vram = 0x80004AE0, size = 0x254 },
     { name = "func_8006F9A8", vram = 0x8006F9A8, size = 0x23C },
